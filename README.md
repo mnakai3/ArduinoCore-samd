@@ -1,3 +1,11 @@
+# Attention
+
+This repository is not an [official repository of Seeed Studio](https://github.com/Seeed-Studio/ArduinoCore-samd), but a repository for making the following boards available on PlatformIO.
+
+* Seeeduino XIAO
+
+Therefore, there are some implementation differences from the official repository.
+
 # Arduino Core for SAMD21 CPU
 
 This repository contains the source code and configuration files of the Arduino Core
